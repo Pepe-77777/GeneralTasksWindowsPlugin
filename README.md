@@ -4,7 +4,7 @@ Um plugin do windows.
 - Bom para instalar vai requerir o [GIT](https://git-scm.com/downloads)
 
 Ok, este app é um pouco dificil de instalar,
-então veja o tutorial [Clicando AQUI!]()
+então veja o tutorial [Clicando AQUI!](https://github.com/Pepe-77777/Pepe-77777/blob/main/Tutorial_1.md)
 
 O que é o General-Tasks windows plugin?
 
