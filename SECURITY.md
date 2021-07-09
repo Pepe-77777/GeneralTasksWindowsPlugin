@@ -6,7 +6,7 @@ Versions with support to Security Policy.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 1.0.x   | :x: |
+| 1.x.x   | :x: |              |
 
 ## Reporting a Vulnerability
 
