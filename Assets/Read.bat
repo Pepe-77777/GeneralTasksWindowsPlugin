@@ -3,7 +3,7 @@ cls
 title General Tasks - Read
 set /p File="Escolha o arquivo: "
 echo.
-type %File%
+type "%File%"
 echo.
 echo.
 echo.
