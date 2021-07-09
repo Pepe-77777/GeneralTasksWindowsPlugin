@@ -28,13 +28,15 @@ exit
 :senhas
 cls
 cd Assets_GeneralTasks
+start Senhas.bat
+exit
 
 :notArgs
 cls
 echo Seja bem vindo ao general tasks, para comecar digite:
 echo General-Tasks read (Leia um arquivo usando o cmd)
 echo General-Tasks open (Abrir um arquivo)
-echo General-Tasks github (Abra a pagina do GITHUB.)
+echo General-Tasks github (Abra a pagina do GITHUB)
 echo General-Tasks senhas (Salvar uma senha)
 
 title
