@@ -13,6 +13,7 @@ cls
 type "Senhas-Salvas.txt"
 cd ..
 pause > nul
+start cmd
 exit
 
 :2
